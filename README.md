@@ -12,4 +12,4 @@ Piesa aleasă va trece pe câmpul liber, astfel eliberând câmpul ocupat anteri
 
 Prin intermediul a mai multor mmutări, jucătorul trebuie să rezolve puzzle-ul.
 
-Pentru rezolvarea subiectelor, se va deschide scena numită **Game**.
+Pentru rezolvarea subiectelor, se va deschide scena **Game** din folderul Scenes.
