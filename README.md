@@ -10,6 +10,6 @@ Jucătorul poate muta o piesă doar dacă aceasta este adiacentă câmpului libe
 
 Piesa aleasă va trece pe câmpul liber, astfel eliberând câmpul ocupat anterior.
 
-În urma mai multor mutări, jucătorul trebuie să aducă puzzle-ul la imaginea originală.
+Prin intermediul a mai multor mmutări, jucătorul trebuie să rezolve puzzle-ul.
 
 Pentru rezolvarea subiectelor, se va deschide scena numită **Game**.
