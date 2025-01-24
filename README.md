@@ -4,7 +4,7 @@ Jocul din acest proiect este **Sliding puzzle**.
 
 Jucătorul începe cu un puzzle alcătuit din 9 piese, aranjate într-un pătrat cu suprafața 3x3.
 
-Piesele sunt amestecate, lăsând doar ultimul câmp liber.
+Piesele sunt amestecate, lăsând doar un singur câmp liber.
 
 Jucătorul poate muta o piesă doar dacă aceasta este adiacentă câmpului liber pe orizontală sau verticală.
 
